@@ -1,5 +1,3 @@
-# Blood-Bank-Mern-Stack-Project
-
 # Blood Bank Management System - MERN Stack
 
 ## Overview
